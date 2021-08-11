@@ -16,7 +16,7 @@ This project is designed to create a quality README.md file for any github repos
 Open integrated terminal. Type `npm init`, then `npm inquirer`
 ## Usage
 Once npm inquirer is installed, type `node index.js`. You should be prompted with questions and you can just type in your answers, press enter, and have a README file in no time!
-[Usage instructions](README generator.gif)
+![Usage instructions](https://github.com/kirafaye99/README-Generator/blob/main/README%20generator.gif)
 ## Credit
 https://github.com/kirafaye99
 ## License
