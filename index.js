@@ -45,7 +45,7 @@ const questions =
             },
             {
                 type: 'input',
-                message: 'Who were your collaborators/tutorials you followed?',
+                message: 'Who were your collaborators/tutorials you followed? (Please include github profile links if applicable)',
                 name: 'credit',
             },
             {
