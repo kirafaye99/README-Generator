@@ -134,7 +134,7 @@ function writeToFile(fileName, data) {
     });
 }
 
-//function to initialize app
+// function to initialize app
 async function init () {
     try {
 
@@ -150,6 +150,15 @@ async function init () {
         console.log(error);
     }
 }
+
+// testing out different ways to do promises
+// function init() {
+//     inquirer.prompt(questions)
+//     .then(response => {
+//         writeToFile('README.md', generateMarkdown(response));
+//     })
+//     .catch(err => console.log(err));
+// }
 
 //function call to initialize app
 init();
