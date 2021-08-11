@@ -13,10 +13,11 @@ This project is designed to create a quality README.md file for any github repos
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Open integrated terminal, typoe npm init, then npm inquirer
+Open integrated terminal
+`npm init`
+`npm inquirer`
 ## Usage
-Once npm inquirer is installed, type node index.js. You should be prompted with questions and you can just type in your answers, press enter, and have a README file in no time!
-![Watch the video on how to use the program!](Untitled_ Aug 11, 2021 4_01 PM.webm)
+Once npm inquirer is installed, type `node index.js`. You should be prompted with questions and you can just type in your answers, press enter, and have a README file in no time!
 ## Credit
 https://github.com/kirafaye99
 ## License
