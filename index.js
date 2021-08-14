@@ -144,7 +144,7 @@ async function init () {
         const markdown = generateMarkdown(response);
         // console.log(markdown);
 
-        writeToFile('README.md', markdown);
+        writeToFile('exampleREADME.md', markdown);
 
     } catch (error) {
         console.log(error);
