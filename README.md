@@ -22,7 +22,7 @@ https://github.com/kirafaye99
 ## License
 Open License
 ## Tests
-I did not write any tests for this application.
+I tested the prompts multiple times in the command line to check for errors.
 ## Questions
 #### [My Github](https://github.com/kirafaye99)
 #### Email: 
