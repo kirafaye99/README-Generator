@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # README Generator
 ![License](https://img.shields.io/badge/license-Open-brightgreen)
 ## Description
@@ -32,4 +29,3 @@ I did not write any tests for this application.
 - kirademarco.codes@gmail.com
 #### How to reach out to me:
 - Feel free to contact me through my email!
->>>>>>> 017849c4eb8125aae0f5890db44ee317107b03e8
